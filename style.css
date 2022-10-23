@@ -2,11 +2,19 @@ body {
     background: #FAA6FF;
   }
 h1 {
-    color: #2F195F;
-    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    color: #0F1020;
+    font-family: sans-serif;
     font-weight: bold 
 }
-p {
-    color: #7353BA;
-    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+h2 {
+    color: #2F195F;
+    font-family: sans-serif;
+}
+div {
+    font-family: sans-serif;
+    color:#2F195F;
+}
+li {
+    font-family: sans-serif;
+    color:#2F195F;
 }
